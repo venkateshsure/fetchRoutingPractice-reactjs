@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+
+.sec-con-blog {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid #8e8e8e;
+  margin: 5px;
+}
+
+.image-blog {
+  width: 100%;
+}
+
+.third-con-blog {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.fourth-con-blog {
+  display: flex;
+  align-items: center;
+}
+
+.fifth-con-blog {
+  display: flex;
+  flex-direction: column;
+}
+.avatar-blog {
+  display: flex;
+  width: 40px;
+  height: 40px;
+}
